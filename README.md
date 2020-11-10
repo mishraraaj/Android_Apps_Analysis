@@ -1,3 +1,3 @@
 # Android_Apps_Analysis
-Detecting which factors hel in success of apps
+Detecting which factors effects in success of apps
 
